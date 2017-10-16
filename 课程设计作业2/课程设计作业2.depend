@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1507530832 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\main.c
+	"valueSet.h"
+	"newWord.h"
+	"leave.h"
+	"levelChoice.h"
+	"moving.h"
+	"printScreen.h"
+	"result.h"
+	"start.h"
+	"wordHit.h"
+	"run.h"
+
+1507347250 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\leave.c
+	"leave.h"
+
+1507348092 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\levelchoice.c
+	"levelChoice.h"
+
+1507345732 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\valueset.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<conio.h>
+	<dos.h>
+	<windows.h>
+
+1507349453 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\newword.h
+	"valueSet.h"
+
+1507345680 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\leave.h
+	"valueSet.h"
+
+1507345680 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\levelchoice.h
+	"valueSet.h"
+
+1507349453 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\moving.h
+	"valueSet.h"
+
+1507349453 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\printscreen.h
+	"valueSet.h"
+
+1507345760 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\result.h
+	"valueSet.h"
+
+1507345680 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\start.h
+	"valueSet.h"
+
+1507345732 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\wordhit.h
+	"valueSet.h"
+
+1507345680 c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\run.h
+	"valueSet.h"
+
+1507350228 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\moving.c
+	"moving.h"
+	"valueSet.h"
+
+1507349454 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\newword.c
+	"newWord.h"
+
+1507349453 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\printscreen.c
+	"printScreen.h"
+
+1507348735 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\result.c
+	"result.h"
+
+1507531779 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\run.c
+	"run.h"
+
+1507529689 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\start.c
+	"start.h"
+
+1507344279 source:c:\users\rao75\onedrive\马虹的课\课程设计作业2\课程设计作业2\wordhit.c
+	"wordHit.h"
+
